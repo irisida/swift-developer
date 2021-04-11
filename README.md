@@ -14,4 +14,4 @@ This repository is responsible for acting as a learning timeline for Swift and i
 - [Calculator]()
 - [Magic 8-ball]()
 - [AutoLayout with iOS13]()
-- [Dicee - Dice roller](../dicee-ios-app)
+- [Dicee - Dice roller](https://github.com/irisida/dicee-ios-app)
