@@ -1,8 +1,10 @@
 # Swift Developer
 
-This repository is responsible for acting as a learning timeline for Swift and iOS developement. I am documenting this in latest first, or reverse chronological order.
+This repository is responsible for acting as a learning timeline or summary journal for my progress learning Swift & iOS Development. Documented in _latest first_, or _reverse chronological_ order. The materials are a mix of on-demand video courses with Udemy, Blog post examples, published books.
 
-### Angela Yu - iOS 14 version
+### Angela Yu - iOS 13 version on Udemy
+
+The course can be found [here](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
 
 - [Clima - weather lookup](https://github.com/irisida/clima-ios-weather-app)
 - [Tipsy](https://github.com/irisida/tipsy-tip-calculator-ios-app)
