@@ -2,9 +2,13 @@
 
 This repository is responsible for acting as a learning timeline or summary journal for my progress learning Swift & iOS Development. Documented in _latest first_, or _reverse chronological_ order. The materials are a mix of on-demand video courses with Udemy, Blog post examples, published books.
 
+### UBER App clone
+
+- [Uber clone iOS](https://github.com/irisida/uber-clone-ios) - An iOS project in Swift 5.3 to build a functioning clone of the UBER app.
+
 ### Angela Yu - iOS 13 version on Udemy
 
-The course can be found [here](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
+The course can be found [here.](https://www.udemy.com/course/ios-13-app-development-bootcamp/) It aims to provide a fairly comprehensive tour of beginner iOS development. Projects are mostly trivial or contrived. Courses acts as a reasonable introduction to Swift 5.x, using Xcode and general UIKit basics. Course feels dated as it's an annually updated course rather than freshly cut for the state of iOS development as of iOS14.
 
 - [Clima - weather lookup](https://github.com/irisida/clima-ios-weather-app)
 - [Tipsy](https://github.com/irisida/tipsy-tip-calculator-ios-app)
