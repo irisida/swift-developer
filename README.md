@@ -2,6 +2,14 @@
 
 This repository is responsible for acting as a learning timeline or summary journal for my progress learning Swift & iOS Development. Documented in _latest first_, or _reverse chronological_ order. The materials are a mix of on-demand video courses with Udemy, Blog post examples, published books.
 
+### SwiftUI Twitter clone
+
+- [Twitter clone iOS](https://github.com/irisida/twitter-swiftui) - A SwiftUI clone of the Twitter app
+
+### SwiftUI Instagram clone
+
+- [Instagram clone iOS](https://github.com/irisida/instagram-swiftui) - A full MVP version of Instagram developed in SwiftUI
+
 ### UBER App clone
 
 - [Uber clone iOS](https://github.com/irisida/uber-clone-ios) - An iOS project in Swift 5.3 to build a functioning clone of the UBER app.
