@@ -2,6 +2,10 @@
 
 This repository is responsible for acting as a learning timeline or summary journal for my progress learning Swift & iOS Development. Documented in _latest first_, or _reverse chronological_ order. The materials are a mix of on-demand video courses with Udemy, Blog post examples, published books.
 
+### SwiftUI Netflix clone
+
+- [Netflix clone iOS](https://github.com/irisida/netflix-swiftui) - A SwiftUI clone of the iOS Netflix app.
+
 ### SwiftUI Twitter clone
 
 - [Twitter clone iOS](https://github.com/irisida/twitter-swiftui) - A SwiftUI clone of the Twitter app
