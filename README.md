@@ -2,13 +2,17 @@
 
 This repository is responsible for acting as a learning timeline or summary journal for my progress learning Swift & iOS Development. Documented in _latest first_, or _reverse chronological_ order. The materials are a mix of on-demand video courses with Udemy, Blog post examples, published books.
 
+### SwiftUI Tinder clone 
+
+- [Tinder clone iOS](https://github.com/irisida/netflix-swiftui) - A SwiftUI clone of the iOS Tinder dating app
+
 ### SwiftUI Netflix clone
 
-- [Netflix clone iOS](https://github.com/irisida/netflix-swiftui) - A SwiftUI clone of the iOS Netflix app.
+- [Netflix clone iOS](https://github.com/irisida/netflix-swiftui) - A SwiftUI clone of the iOS Netflix app. Complex multipart views and autoplaying video as highlighted features. Dark themed app. 
 
 ### SwiftUI Twitter clone
 
-- [Twitter clone iOS](https://github.com/irisida/twitter-swiftui) - A SwiftUI clone of the Twitter app
+- [Twitter clone iOS](https://github.com/irisida/twitter-swiftui) - A SwiftUI clone of the Twitter app with the light mode look and feel. Covers messaging and profile. Interactions such as likes and follows. 
 
 ### SwiftUI Instagram clone
 
