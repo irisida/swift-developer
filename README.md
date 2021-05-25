@@ -4,11 +4,11 @@ This repository is responsible for acting as a learning timeline or summary jour
 
 ### SwiftUI Tinder clone 
 
-- [Tinder clone iOS](https://github.com/irisida/netflix-swiftui) - A SwiftUI clone of the iOS Tinder dating app
+- [Tinder clone iOS](https://github.com/irisida/netflix-swiftui) - A SwiftUI clone of the iOS Tinder dating app. Focuses on swipable features. Has some UIKit interop for some features but is 95% SwiftUI. Includes the use of a placeholder images service instead of using real people as the image samples. 
 
 ### SwiftUI Netflix clone
 
-- [Netflix clone iOS](https://github.com/irisida/netflix-swiftui) - A SwiftUI clone of the iOS Netflix app. Complex multipart views and autoplaying video as highlighted features. Dark themed app. 
+- [Netflix clone iOS](https://github.com/irisida/netflix-swiftui) - A SwiftUI clone of the iOS Netflix app. Complex multipart views and autoplaying video as highlighted features. Dark themed app. Vodeo samples use a standard free video resource and does not actually play any copyrighted video or other materials under copyright. 
 
 ### SwiftUI Twitter clone
 
