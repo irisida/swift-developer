@@ -2,6 +2,14 @@
 
 This repository is responsible for acting as a learning timeline or summary journal for my progress learning Swift & iOS Development. Documented in _latest first_, or _reverse chronological_ order. The materials are a mix of on-demand video courses with Udemy, Blog post examples, published books.
 
+### SwiftUI E-comm project Touchdown
+
+-[Touchdown ecommerce with SwiftUI](https://github.com/irisida/american-football-swiftUI) - e-comm shopfront using SwiftUI around the domain of American football. No active accounts, money exchange or functioning backend. The purpose is as a frintend prototpe and presents some complex views.
+
+### SwiftUI Africa promotional app iOS, iPadOS, MacOS
+
+-[Africa multiplatform app](https://github.com/irisida/africa-swiftUI) - A purely UI based based project therefore has no active backens. This dark mode apps has some complex view and is focused around the animals tyically found on a safar in Africa. 
+
 ### SwiftUI Tinder clone 
 
 - [Tinder clone iOS](https://github.com/irisida/netflix-swiftui) - A SwiftUI clone of the iOS Tinder dating app. Focuses on swipable features. Has some UIKit interop for some features but is 95% SwiftUI. Includes the use of a placeholder images service instead of using real people as the image samples. 
