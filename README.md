@@ -2,6 +2,10 @@
 
 This repository is responsible for acting as a learning timeline or summary journal for my progress learning Swift & iOS Development. Documented in _latest first_, or _reverse chronological_ order. The materials are a mix of on-demand video courses with Udemy, Blog post examples, published books.
 
+### Vapor 4 API 
+-[Movies API with Vapor 4 & Postgres](https://github.com/irisida/vapor-postgres-movies-api) An exploratory repo to get the basics of Vapor 4 ironed out. Covers routing and controllers. 
+
+
 ### SwiftUI E-comm project Touchdown
 
 -[Touchdown ecommerce with SwiftUI](https://github.com/irisida/american-football-swiftUI) - e-comm shopfront using SwiftUI around the domain of American football. No active accounts, money exchange or functioning backend. The purpose is as a frintend prototpe and presents some complex views.
